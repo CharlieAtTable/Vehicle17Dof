@@ -1,0 +1,31 @@
+{
+    "sprung": "sprung.json",
+    "areo": "areo.json",
+    "steering_system": "steering_system.json",
+    "powertrain": "powertrain.json",
+    "hitch": "",
+    "axle": [
+        {
+            "tire": "tires.json",
+            "driveline": "",
+            "suspension": "suspension.json",
+            "steering": "steering.json",
+            "location": [
+                3,
+                0,
+                -0.5
+            ]
+        },
+        {
+            "tire": "tires.json",
+            "driveline": "driveline.json",
+            "suspension": "suspension.json",
+            "steering": "",
+            "location": [
+                -3,
+                0,
+                -0.5
+            ]
+        }
+    ]
+}
